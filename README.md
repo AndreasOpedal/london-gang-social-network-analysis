@@ -1,6 +1,6 @@
 # London gang social network analysis
 
-A simple exploratory analysis of a social network consisting of criminals in a London-based gang.
+A simple exploratory analysis in R of a social network consisting of criminals in a London-based gang.
 
 Data is on co-offending in a London-based inner-city street gang, 2005-2009, operating from a social housing estate. The data comes from anonymized police arrest and conviction data for all confirmed members of the gang. It consists of four networks: hang-out together, co-offend together, commit serious crime together and commit serious crime together & kin. 
 
